@@ -1,7 +1,2 @@
 # Interval Pro
--
-
-## Corporate website
--
-
-## Products and services
+A special repository which provides information about Ever products and services.
